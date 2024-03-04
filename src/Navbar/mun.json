@@ -1,0 +1,93 @@
+{
+    "teamMembers": [
+      {
+        "name": "Akshata Chopra",
+        "position": "Executive Committee Member",
+        "image": "akshata.jpg"
+      },
+      {
+        "name": "Aman Jha",
+        "position": "Executive Committee Member",
+        "image": "aman.jpg"
+      },
+      {
+        "name": "Ankush Chauhan",
+        "position": "Executive Committee Member",
+        "image": "ankush.jpg"
+      },
+      {
+        "name": "Anmol Gurudev",
+        "position": "Executive Committee Member",
+        "image": "anmol.jpg"
+      },
+      {
+        "name": "Hardik Sardana",
+        "position": "Executive Committee Member",
+        "image": "hardik.jpg"
+      },
+      {
+        "name": "Ikjot Singh",
+        "position": "Executive Committee Member",
+        "image": "ikjyot.jpg"
+      },      
+
+
+      {
+        "name": "Aman Malhotra",
+        "position": "Executive Committee Member",
+        "image": "mallu.jpg"
+      },
+      {
+        "name": "Mudit Maheshwari",
+        "position": "Executive Committee Member",
+        "image": "Mudit.jpg"
+      },
+      {
+        "name": "Panshul",
+        "position": "Executive Committee Member",
+        "image": "panshul.jpg"
+      },
+
+      {
+        "name": "Raghav",
+        "position": "Executive Committee Member",
+        "image": "raghav.jpg"
+      },
+      {
+        "name": "Riya",
+        "position": "Executive Committee Member",
+        "image": "riya.jpg"
+      },
+
+      {
+        "name": "Shyla Madan",
+        "position": "Executive Committee Member",
+        "image": "shyla.jpg"
+      },
+      {
+        "name": "Vartika",
+        "position": "Executive Committee Member",
+        "image": "vartika.jpg"
+      },
+      {
+        "name": "Vidhi Balyan",
+        "position": "Executive Committee Member",
+        "image": "vidhi.jpg"
+      },
+      {
+        "name": "Madhav Tanwar",
+        "position": "Executive Committee Member",
+        "image": "madhav.JPG"
+      },
+      {
+        "name": "Pranjal Kumar",
+        "position": "Executive Committee Member",
+        "image": "pranjal.JPG"
+      },
+      {
+        "name": "Sanjoni",
+        "position": "Executive Committee Member",
+        "image": "sanjoni.JPG"
+      }
+    ]
+  }

@@ -1,0 +1,89 @@
+{
+    "teamMembers": [
+      {
+        "name": "Aakarsh Rana",
+        "position": "Executive Committee Member",
+        "image": "aakarsh.jpg"
+      },
+      {
+        "name": "Ananya Singh",
+        "position": "Executive Committee Member",
+        "image": "ananyas.jpg"
+      },
+      {
+        "name": "Ananya Das",
+        "position": "Executive Committee Member",
+        "image": "ananya.jpg"
+      },
+      {
+        "name": "Anshita Dixit",
+        "position": "Executive Committee Member",
+        "image": "anshita.jpg"
+      },
+      {
+        "name": "Ashmita Banerjee",
+        "position": "Executive Committee Member",
+        "image": "ashmita.jpg"
+      },
+      {
+        "name": "Bhumika Malik",
+        "position": "Executive Committee Member",
+        "image": "bhumika.png"
+      },
+      {
+        "name": "Dipty",
+        "position": "Executive Committee Member",
+        "image": "dipty.jpg"
+      },
+      {
+        "name": "Hartej Singh",
+        "position": "Executive Committee Member",
+        "image": "hartej.jpeg"
+      },
+      {
+        "name": "Mehak Kala",
+        "position": "Executive Committee Member",
+        "image": "kalia.jpg"
+      },
+      {
+        "name": "Prasun Sharma",
+        "position": "Executive Committee Member",
+        "image": "developer.jpg"
+      },
+      {
+        "name": "Manasvi Khandelwal",
+        "position": "Executive Committee Member",
+        "image": "manasvi.jpg"
+      },
+      {
+        "name": "Prachi Singla",
+        "position": "Executive Committee Member",
+        "image": "prachi.jpg"
+      },
+      {
+          "name": "Saanvi Agarwal",
+          "position": "Executive Committee Member",
+          "image": "saanvi.jpg"
+      },
+      {
+          "name": "Sachin",
+          "position": "Executive Committee Member",
+          "image": "sachin.jpg"
+      },
+      {
+          "name": "Vishwangi Raj",
+          "position": "Executive Committee Member",
+          "image": "vishwa.jpg"
+      },
+      {
+          "name": "Yatharth Jain",
+          "position": "Executive Committee Member",
+          "image": "yatharth.jpg"
+      },
+      {
+          "name": "Ujjwal",
+          "position": "Executive Committee Member",
+          "image": "ujwal.png"
+      } 
+    ]
+  }

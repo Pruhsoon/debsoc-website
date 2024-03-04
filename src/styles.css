@@ -1,0 +1,176 @@
+/* Navbar */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif; /* Added a default font */
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  background-color: black;
+  color: white;
+  position: relative;
+  z-index: 1; 
+  padding: 1rem !important; 
+}
+
+.site-title {
+  font-size: 1.5rem;
+  margin: 0;
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+}
+.site-title:hover {
+  color: #C21B30;
+}
+.navbar-links {
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.navbar-links li {
+  list-style: none;
+}
+
+.navbar-links li a {
+  text-decoration: none;
+  color: white;
+  padding: 1rem;
+  display: block;
+  transition: color 0.3s; 
+}
+
+.navbar-links li a:hover {
+  color: #C21B30;
+}
+
+.toggle-button {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  display: none;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 30px;
+  height: 21px;
+  cursor: pointer;
+  z-index: 2; 
+}
+
+.toggle-button .bar {
+  height: 3px;
+  width: 100%;
+  background-color: white;
+  border-radius: 10px;
+  transition: background-color 0.3s;
+}
+
+.toggle-button.active .bar:nth-child(1) {
+  transform: rotate(-45deg) translate(-5px, 6px);
+}
+
+.toggle-button.active .bar:nth-child(2) {
+  opacity: 0;
+}
+
+.toggle-button.active .bar:nth-child(3) {
+  transform: rotate(45deg) translate(-6px, -6px);
+}
+
+@media (max-width: 768px) {
+  .toggle-button {
+    display: flex;
+  }
+
+  .navbar-links {
+    display: none;
+    position: absolute;
+    top: 60px;
+    left: 0;
+    width: 100%;
+    background-color: black;
+    flex-direction: column;
+    align-items: center;
+   
+  }
+
+  .navbar-links.active {
+    display: flex;
+  }
+
+  .navbar-links li {
+    text-align: center;
+  }
+
+  .navbar-links li a {
+    padding: 1rem;
+  }
+
+  @keyframes slideIn {
+    from {
+      transform: translateY(-100%);
+    }
+    to {
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes slideOut {
+    from {
+      transform: translateY(0);
+    }
+    to {
+      transform: translateY(-100%);
+    }
+  }
+}
+
+  /* footer */
+
+
+footer {
+  background-color: black;
+  color: #efefef;;
+  padding: 20px 0;
+  text-align: center;
+}
+footer p {
+  color: #efefef;;
+
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.contact-info,
+.social-media {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+  text-align: center;
+}
+
+.contact-info h3,
+.social-media h3 {
+  color: #C21B30;
+}
+
+.social-icons img {
+  width: 30px;
+  margin: 0 5px;
+}
+
+
+
