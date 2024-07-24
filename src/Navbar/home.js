@@ -58,7 +58,7 @@ The General Department has always stood by the students, especially the freshers
         {/* TND */}
         <div className='tnd'>
           <h2 className='left-head'>Tech & Design</h2>
-          <img src="/images/Dept/pd_card.png" alt="Department" className="department-image" id='right-img'/>
+          <img src="/images/Dept/tnd_card.jpg" alt="Department" className="department-image" id='right-img'/>
           <p>
           We work on designing the user interface and experience of the society's online platforms, aiming to make them intuitive and accessible by keeping the technological infrastructure robust and user-friendly. From tabby teams to social media handling, we ensure the smooth handling of various aspects of The Debating Society's operations.
           </p>

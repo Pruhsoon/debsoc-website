@@ -112,7 +112,7 @@ p {
   }
 
   .home-hero{
-    background: url('./img/core23.JPG');
+    background: url('./img/core23.jpg');
     background-position: center;
     background-repeat: no-repeat ;
     background-size: cover;
@@ -166,7 +166,7 @@ p {
 }
 
 .aboutus-hero{
-  background: url('./img/core23.JPG');
+  background: url('./img/core23.jpg');
   background-position: center;
   background-repeat: no-repeat ;
   background-size: cover;
@@ -308,7 +308,7 @@ hr{
   font-weight: bold;
 }
 .pd-hero{
-  background: url('./img/dep.png');
+  background: url('./img/dep.jpg');
   background-position: center;
   background-repeat: no-repeat ;
   background-size: cover;
@@ -358,7 +358,7 @@ hr{
   font-weight: bold;
 }
 .mun-hero{
-  background: url('./img/dep.png');
+  background: url('./img/depmun.jpg');
   background-position: center;
   background-repeat: no-repeat ;
   background-size: cover;
