@@ -15,6 +15,23 @@
         "position": "Vice-President",
         "image": "Palak Thareja_.jpg"
       },
+      
+      {
+        "name": "Devanshi Sharma",
+        "position": "Vice-President",
+        "image": "devanshi.jpeg"
+      },
+      {
+        "name": "Keshav Singhal",
+        "position": "Treasurer",
+        "image": "Keshav.jpg"
+      },
+      {
+        "name": "Jayaditya",
+        "position": "Treasurer",
+        "image": "Jay.jpg"
+      },
+
       {
         "name": "Aryan Verma",
         "position": "Director, Parliamentary Debating",
@@ -29,6 +46,17 @@
         "name": "Rohit Narain",
         "position": "Deputy Director, Parliamentary Debating",
         "image": "Rohit.jpg"
+      },
+ 
+      {
+       "name": "Sahil Kabra",
+       "position": "Deputy Director, Parliamentary Debating",
+       "image": "sahil.jpg"
+      },    
+      {
+       "name": "Vidhan Vyas",
+       "position": "Deputy Director, Parliamentary Debating",
+       "image": "Vidhan.png"
       },
       {
         "name": "Mujtabah Javed Malik",
@@ -49,16 +77,6 @@
         "name": "Mehul Lamba",
         "position": "Deputy Director, Model United Nations",
         "image": "Mehul.jpg"
-      },
-      {
-        "name": "Keshav Singhal",
-        "position": "Treasurer",
-        "image": "Keshav.jpg"
-      },
-      {
-        "name": "Jayaditya",
-        "position": "Treasurer",
-        "image": "Jay.jpg"
       },
       {
         "name": "Chelsi Kothari",
@@ -114,18 +132,6 @@
         "name": "Prashasti Jain",
         "position": "Mentor, Model United Nations",
         "image": "Prashasti.jpg"
-      },
- 
-      {
-       "name": "Sahil Kabra",
-       "position": "Deputy Director, Parliamentary Debating",
-       "image": "sahil.jpg"
-      },
-      
-      {
-        "name": "Devanshi Sharma",
-        "position": "Vice-President",
-        "image": "devanshi.jpeg"
       },   
       {
         "name": "Dayaan Owaisy",
@@ -136,13 +142,6 @@
       "name": "Navya Tewari",
       "position": "Deputy Director, Literary",
       "image": "navya.png"
-      },    
-
-   
-      {
-       "name": "Vidhan Vyas",
-       "position": "Deputy Director, Parliamentary Debating",
-       "image": "Vidhan.png"
       },     
       {
        "name": "Shivang Dua",
